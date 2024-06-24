@@ -1,0 +1,24 @@
+{
+  "price": 100,
+  "number": 10,
+  "symbol": "NFT112",
+  "sellerFeeBasisPoints": 500,
+  "gatekeeper": null,
+  "solTreasuryAccount": null,
+  "splTokenAccount": "3b4ABTyH1FFGAwxpK2ssB2q7WVYbsg53BvTfvuAccmv3",
+  "splToken": "4pHo6NFq3DPz2aV6nCqfTX3Z4cCodYLmUZBsdmpaJnrC",
+  "goLiveDate": "2024-06-24T00:00:00Z",
+  "endSettings": null,
+  "whitelistMintSettings": null,
+  "hiddenSettings": null,
+  "uploadMethod": "bundlr",
+  "awsS3Bucket": null,
+  "retainAuthority": true,
+  "isMutable": true,
+  "creators": [
+    {
+      "address": "CSFhiivTjFt6KwNSc6xWBQGEUPhzGY2aWSJaWXoxNzgD",
+      "share": 100
+    }
+  ]
+}
